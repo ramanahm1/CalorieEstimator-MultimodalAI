@@ -7,6 +7,23 @@ Research complex AI approaches to estimate lunch calorie intake using diverse da
 - Demographics
 
 -------------------------
+# Project Structure
+- root/
+    - src/
+        - baselines/
+        - transformers/
+    - data/
+    - shared_utils/
+    - requirements.txt
+    - Dockerfile
+    - README.md
+
+## Important Mentions
+- Research articles can be added to `shared_utils`
+- Utility scripts can also be added to `shared_utils`
+
+-------------------------
+
 # Running
 - Step 0: Setup Docker on your system
 - Step 1: 
