@@ -19,7 +19,7 @@ Research complex AI approaches to estimate lunch calorie intake using diverse da
 
 
 -------------------------
-# Mutual collaboration rules
+# Mutual Collaboration Rules
 - No direct commits to `main`
 - Checkout from `dev` to own branch
     - Naming convention for own branch `<firstName>/branch-name-based-on-task`
