@@ -1,0 +1,69 @@
+# Citation (git ignore templates): https://github.com/github/gitignore
+
+# Python-related
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.env
+.env
+
+# Virtual Environments
+.venv/
+env/
+venv/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Dataset Files
+*.csv
+*.tsv
+*.xlsx
+*.json
+*.parquet
+*.h5
+
+# Model Files
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.ckpt
+
+# Logs
+*.log
+*.out
+*.err
+logs/
+
+# Temporary Files
+*.tmp
+*.temp
+*.~*
+*.swp
+*.bak
+.DS_Store
+
+# Generated Files
+*.html
+*.pdf
+*.png
+*.jpg
+*.jpeg
+
+# IDE Configurations
+.vscode/
+.idea/
+
+# Dependencies
+*.egg-info/
+.eggs/
+dist/
+build/
+*.whl
+
+# Other large files
+output/
+results/
+checkpoints/
